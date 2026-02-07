@@ -7,8 +7,8 @@
 - Excel/CSV
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard_01.png)
-![Dashboard Preview](Dashboard_02.png)
+![Dashboard Preview](Dashboard01.png)
+![Dashboard Preview](Dashboard02.png)
 
 ## 📂 Files Included
 
